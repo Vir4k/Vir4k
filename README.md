@@ -4,7 +4,7 @@
 <p align="center"><b>I'm just a student that want to learn about program.</b></p>
 
 <h3 align="center">Find me on</h3>
-<p align="center"><a href="https://github.com/Virakk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://discord.gg/AC6cECc9H5" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
+<p align="center"><a href="https://github.com/Vir4k" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://discord.gg/AC6cECc9H5" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
 
 <br />
 
