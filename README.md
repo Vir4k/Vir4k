@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Vir4k's GitHub Statics](https://github-readme-stats.vercel.app/api?username=Vir4k&bg_color=DEG,#70E1F5,#FFD194,&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vir4k's GitHub Statics](https://github-readme-stats.vercel.app/api?username=Vir4k&bg_color=DEG,#70E1F5,#FFD194&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vir4k&layout=compact&hide=html&theme=react" alt="vir4k" /></p>
 <!--
 **Virakk/Virakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
