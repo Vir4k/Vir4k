@@ -12,7 +12,7 @@ I'm Virak. I'm a Blob's Hard-Fan!
 
 ![Virak's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Vir4k&show_icons=true&theme=tokyonight&layout=compact)
 
-![Virak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinav69&show_icons=true&theme=react)
+![Virak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vir4k&show_icons=true&theme=react)
 
 
 ## Langauges & Tools 
