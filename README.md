@@ -14,6 +14,8 @@ I'm Virak. I'm a Blob's Hard-Fan!
 
 ![Virak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vir4k&show_icons=true&theme=react)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vir4k)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Langauges & Tools 
 
