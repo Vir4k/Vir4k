@@ -62,6 +62,8 @@ let info = {
 </p> 
 
 <h1 align="center"> Discord Status: </h1>
+<p align="center">
 <a href="https://discord.com/users/725968708358373477">
   <img height="80px" src="https://discord.c99.nl/widget/theme-3/725968708358373477.png?">
 </a>
+</p>
