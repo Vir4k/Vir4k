@@ -16,7 +16,7 @@
 
 <h3>
   
-```js
+```py
 let info = {
   user_name : "Virak",
   age       : "14",
