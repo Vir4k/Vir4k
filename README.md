@@ -22,10 +22,10 @@ let info = {
   age       : "14",
   pronouns  : [ "he", "him" ],
   fav_theme : [ "dark", "light" ],
-  fav_color : 0xFFFFFF,
+  fav_color : 0x7289DA,
   
   editor    : "Visual Studio Code",
-  language  : "Javascript",
+  language  : ["Javascript", "TypeScript"],
   project   : "Elaina"
 }
 ```
